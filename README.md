@@ -1,5 +1,3 @@
-# Diagram Prosedur Kerja
-
 ```mermaid
 graph TD
     A[MULAI] --> B{Siapkan alat dan bahan};
